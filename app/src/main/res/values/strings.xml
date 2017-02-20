@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fenji</string>
+    <string name="business">Fenji</string>
+    <string name="beschrijving">Waar een hond met zijn *** in de boter is gevallen !</string>
+    <string name="address"> Kruishoutemseweg 28 9790 Wortegem-Petegem </string>
+    <string name="url">www.fenji.be</string>
+    <string name="telephone">0499/23.79.31</string>
+    <string name="hours">Enkel op afspraak</string>
+    <string name="description">Alles voor honden, van hondentraining en gedragsadvies tot hondenpension ! </string>
+    <string name="email">christel@fenji.be</string>
+</resources>
